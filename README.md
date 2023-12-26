@@ -1,4 +1,3 @@
-Lorem Ipsum I
-Lorem Ipsum II
-Lorem Ipsum III
-Lorem Ipsum IV
+# Título do meu README
+
+Aqui neste arquivo README teremos as informações relativas ao nosso projeto.
